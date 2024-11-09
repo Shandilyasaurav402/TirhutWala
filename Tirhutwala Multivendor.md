@@ -1,14 +1,12 @@
 # TirhutWala Multivendor Website Documentation
 
 ## Introduction
-This document provides a comprehensive guide to setting up and configuring a WordPress multivendor website. The goal is to help you create a platform where multiple vendors can register, list their products, manage their sales, and integrate delivery services.
+This document provides a comprehensive guide to setting up and configuring a TirhutWala multivendor website. 
 
 ## Prerequisites
 - A domain name
 - Web hosting service
 - FTP access or File Manager in your hosting cPanel
-- A text editor (e.g., Notepad++, Sublime Text)
-- Basic knowledge of WordPress and website management
 
 ## Installation
 
@@ -105,7 +103,3 @@ This document provides a comprehensive guide to setting up and configuring a Wor
 - Visit support forums or contact the plugin’s support team.
 - Look for error messages in the browser console or server logs.
 
-## Conclusion
-By following this guide, you should have a fully functional WordPress multivendor website with integrated delivery boy management and a vendor dashboard. Continue to monitor and improve your site for better performance, security, and user experience.
-
-For more detailed instructions and advanced configurations, refer to the documentation of the specific plugins you are using.
