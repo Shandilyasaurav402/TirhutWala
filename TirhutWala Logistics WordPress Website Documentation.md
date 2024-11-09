@@ -7,7 +7,6 @@ This document provides a comprehensive guide to setting up and configuring a log
 - A domain name
 - Web hosting service
 - FTP access or File Manager in your hosting cPanel
-- A text editor (e.g., Notepad++, Sublime Text)
 - Basic knowledge of WordPress and website management
 - A car tracker plugin (e.g., TrackServer, WP Vehicle Manager)
 
